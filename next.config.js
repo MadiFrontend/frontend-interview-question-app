@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/your-repo-name',
-  assetPrefix: '/your-repo-name/',
+  basePath: '/frontend-interview-question-app',
+  assetPrefix: '/frontend-interview-question-app/',
 };
 
 module.exports = nextConfig;
