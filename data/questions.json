@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "HR Interview",
+      "question": "Tell me about yourself.",
+      "answer": "This is where you summarize your background, skills, and motivation briefly."
+    },
+    {
+      "id": 2,
+      "category": "HR Interview",
+      "question": "What are your strengths and weaknesses?",
+      "answer": "Highlight key strengths relevant to the role and mention a weakness you're working to improve."
+    },
+    {
+      "id": 3,
+      "category": "HR Interview",
+      "question": "Why do you want to work here?",
+      "answer": "Show you’ve researched the company and align your goals with their mission."
+    }
+  ]
+}
