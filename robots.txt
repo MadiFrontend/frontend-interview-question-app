@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://madifrontend.github.io/frontend-interview-question-app/sitemap.xml
